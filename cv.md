@@ -1,4 +1,5 @@
 # *Olga Nesterova*
+![my-photo](cv.jpg)
 ### _Contacts:_
 * Location: Almaty, Kazakhstan
 * Phone: +7 771 414 1416
